@@ -15,7 +15,8 @@ const About = ()=> {
             
             <div className="col-md-6 about-content">
               <h1 className='about-h'>About me</h1>
-              <p>I am a passionate and dedicated Computer Science student 
+              <p>I am a professional web developer with a passion for creating innovative 
+                and efficient web applications. I have a solid foundation in front-end and back-end development, 
                 with a strong interest in web development and modern technologies.
                 I specialize in building responsive and user-friendly applications 
                 using HTML, CSS, JavaScript, and frameworks like React and Next.js.
